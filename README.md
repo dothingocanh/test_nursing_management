@@ -1,4 +1,6 @@
 # test_nursing_management
+link web: 
+http://nis.xhis.vn/
 role user: bsskhd
 pass: 1
 role manager: NPDung
